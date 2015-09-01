@@ -1,0 +1,10 @@
+C:\Users\April\AppData\Local\Temporary Projects\fig.3.1\bin\Debug\fig.3.1.exe
+C:\Users\April\AppData\Local\Temporary Projects\fig.3.1\bin\Debug\fig.3.1.pdb
+C:\Users\April\AppData\Local\Temporary Projects\fig.3.1\obj\x86\Debug\fig.3.1.exe
+C:\Users\April\AppData\Local\Temporary Projects\fig.3.1\obj\x86\Debug\fig.3.1.pdb
+C:\Users\April\Documents\SSC\COP2360\Week2\fig.3.1\fig.3.1\obj\x86\Debug\fig.3.1.exe
+C:\Users\April\Documents\SSC\COP2360\Week2\fig.3.1\fig.3.1\obj\x86\Debug\fig.3.1.pdb
+C:\Users\April\Documents\GitHub\COP2360\Week2\fig.3.1\fig.3.1\obj\x86\Debug\fig.3.1.exe
+C:\Users\April\Documents\GitHub\COP2360\Week2\fig.3.1\fig.3.1\obj\x86\Debug\fig.3.1.pdb
+C:\Users\April\Documents\GitHub\COP2360\Week2\fig.3.1\fig.3.1\bin\Debug\fig.3.1.exe
+C:\Users\April\Documents\GitHub\COP2360\Week2\fig.3.1\fig.3.1\bin\Debug\fig.3.1.pdb
