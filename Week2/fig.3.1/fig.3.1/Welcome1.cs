@@ -8,7 +8,6 @@ using System;
    static void Main(string[] args)
    {
      Console.WriteLine("Welcome to C# Programming!");
-     Console.Read();
    } //end Main
  } //end class Welcome1
 
