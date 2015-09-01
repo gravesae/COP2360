@@ -1,3 +1,5 @@
 Add your Name and Project assignment on a new line as follows:
 
 Name: Project
+
+Alicia Steele: Dice Simulator
