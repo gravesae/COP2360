@@ -1,0 +1,6 @@
+C:\Users\April\AppData\Local\Temporary Projects\fig.3.22\bin\Debug\fig.3.22.exe
+C:\Users\April\AppData\Local\Temporary Projects\fig.3.22\bin\Debug\fig.3.22.pdb
+C:\Users\April\AppData\Local\Temporary Projects\fig.3.22\obj\x86\Debug\fig.3.22.exe
+C:\Users\April\AppData\Local\Temporary Projects\fig.3.22\obj\x86\Debug\fig.3.22.pdb
+C:\Users\April\Documents\GitHub\COP2360\Week2\fig.3.22\fig.3.22\fig.3.22\obj\x86\Debug\fig.3.22.exe
+C:\Users\April\Documents\GitHub\COP2360\Week2\fig.3.22\fig.3.22\fig.3.22\obj\x86\Debug\fig.3.22.pdb
